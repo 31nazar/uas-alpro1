@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
   <head>
     <meta charset="UTF-8" />
@@ -20,7 +19,7 @@
   <body>
     <h1>Profil Saya</h1>
     <img src="profile.jpg" alt="Foto Profil" />
-    <h2>Nama: [Muhammad Nazar]</h2>
-    <p>Hobi: [Bermain Musik]</p>
+    <h2>Nama: Muhammad Nazar</h2>
+    <p>Hobi: Bermain Musik</p>
   </body>
 </html>
