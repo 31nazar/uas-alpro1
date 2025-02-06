@@ -5,4 +5,4 @@ Prodi : Ilmu Komputer <br/>
 Hobi Saya : Bermain musik <br/>
 
 
-(https://github.com/31nazar/pict/blob/main/Bar%20Pict.jpeg?raw=true)
+!(https://github.com/31nazar/pict/blob/main/Bar%20Pict.jpeg?raw=true)
